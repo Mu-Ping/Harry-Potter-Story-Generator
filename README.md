@@ -267,6 +267,6 @@ for i in txt:
     f.write(text)
 ```
 
-@專案： [Harry-Potter-Story-Generator](https://github.com/muping0326/Harry-Potter-Story-Generator )  
-@author: [Mu-Ping](https://github.com/Mu-Ping)  
-@e-mail： k0326jim@gmail.com
+@專案 ： [Harry-Potter-Story-Generator](https://github.com/muping0326/Harry-Potter-Story-Generator )  
+@author ： [Mu-Ping](https://github.com/Mu-Ping)  
+@e-mail ： k0326jim@gmail.com
