@@ -266,7 +266,6 @@ for i in txt:
   with open("/content/drive/My Drive/Colab Notebooks/Ping/自然語言處理/106403546_"+i, 'w') as f:
     f.write(text)
 ```
-
-@專案 ： [Harry-Potter-Story-Generator](https://github.com/muping0326/Harry-Potter-Story-Generator )  
+  
 @author ： [Mu-Ping](https://github.com/Mu-Ping)  
 @e-mail ： k0326jim@gmail.com
