@@ -1,4 +1,4 @@
-# Harry-Potter-story-generator 
+# Harry-Potter Story Generator 
 訓練一款可以產生哈利波特相關故事的模型，使用「範例故事」當作訓練資料，並根據「預設故事」預測一篇故事。  
 此專案於Google colab上開發，檔案結構如下：
 |檔案/資料夾|簡述|
